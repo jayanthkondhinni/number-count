@@ -1,0 +1,28 @@
+body{
+    background-image: url("entrance.jfif");
+    background-size: cover;
+    margin: auto;
+    text-align: center;
+    color:white;   
+    margin-top: 100px;
+    font-family: sans-serif,Segoe UI, Tahoma, Geneva, Verdana;
+    color:bisque;
+    
+}
+.btn{
+    background-color:white;
+    font-weight: bolder;
+    border: 1px solid bisque;
+    padding:10px 15px;
+    color:bisque;
+    background-color: greenyellow;
+    text-shadow: 0px 0px 5px black;
+}
+#main{
+    background-color:coral;
+    width: 400px;
+    height: 300px;
+    padding: 30px;
+    margin: auto;
+    margin-top:210px;
+}
